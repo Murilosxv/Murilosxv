@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Murilo
-- 🌱 Estudando Analise e Desenvolvimento de Sistemas no SENAI Roberto Mange
+- 🌱 Cursando Analise e Desenvolvimento de Sistemas no SENAI Roberto Mange
 -  😄 Pronouns: Ele/Dele
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Murilosxv)](https://github.com/Murilosxv/github-readme-stats)
