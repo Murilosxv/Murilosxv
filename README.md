@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E3A8A&height=120&section=header"/>
 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?title_color=&icon_color=1E3A8A&text_color=c9d1d9&bg_color=0d1117"&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Murilo+Silva+dos+Santos;I'm+18+years+old;I+am+from+Hortolândia,+SP;I+study+analysis+and+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?title_color=&icon_color=1E3A8A&text_color=c9d1d9&bg_color=0d1117"&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Murilo+Silva+dos+Santos;I'm+19+years+old;I+am+from+Hortolândia,+SP;I+study+analysis+and+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Murilosxv&show_icons=true&count_private=true&hide_border=true&title_color=&icon_color=1E3A8A&text_color=c9d1d9&bg_color=0d1117" alt="Murilo Silva dos Santos github stats" /> 
