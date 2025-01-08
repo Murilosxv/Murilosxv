@@ -2,7 +2,7 @@
 
 # 👨🏿‍💻 Murilo Silva
 
-**`Desenvolvedor de IA e Machine Learning`**
+**`Desenvolvedor de IA`**
 
 Me chamo Murilo, estou cursando Análise e Desenvolvimento de Sistemas no SENAI Roberto Mange, em Campinas. Atualmente, estou em busca de um novo emprego ou estágio para continuar desenvolvendo minhas habilidades na área de tecnologia. Sou apaixonado por programação e sempre em busca de novos desafios que me permitam crescer profissionalmente.
 </div>
